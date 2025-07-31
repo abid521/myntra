@@ -25,8 +25,10 @@ header {
 }
 .nav_bar {
   display: flex;
+  flex-direction: column;
   min-width: 515px;
   justify-content: space-evenly;
+  
 }
 .nav_bar a {
   font-size: 14px;
