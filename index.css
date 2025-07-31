@@ -25,7 +25,7 @@ header {
 }
 .nav_bar {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   min-width: 515px;
   justify-content: space-evenly;
   
