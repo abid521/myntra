@@ -27,6 +27,7 @@ header {
   display: flex;
   min-width: 515px;
   justify-content: space-evenly;
+     flex-wrap: wrap;
   
 }
 .nav_bar a {
@@ -132,3 +133,4 @@ header {
   text-align: end;
   padding: 15px;
 }
+
